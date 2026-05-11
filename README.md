@@ -38,7 +38,7 @@ CSV Module
 Libraries Required
 
 ## Install the required libraries using:
-
+```text
 pip install beautifulsoup4 requests lxml
 Project Structure
 project-folder/
@@ -46,7 +46,7 @@ project-folder/
 ├── ws3.ipynb          # Jupyter Notebook containing scraper code
 ├── ws3.csv            # Output CSV file containing scraped data
 └── README.md          # Project documentation
-
+```
 ## How the Project Works
 Step 1: Import Libraries
 
